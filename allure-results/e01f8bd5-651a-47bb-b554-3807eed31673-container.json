@@ -1,0 +1,1 @@
+{"uuid":"e01f8bd5-651a-47bb-b554-3807eed31673","name":"com.amazon.testScripts.TestAndroid","start":1547391527092,"stop":1547391543666,"children":["e712b15f-056c-4d0c-a4f5-63487b58a7e6"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","start":1547391527108,"stop":1547391540843}]}

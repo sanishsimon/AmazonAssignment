@@ -1,0 +1,1 @@
+{"uuid":"cbe5904a-4022-45e3-8545-f3321077159f","name":"com.amazon.testScripts.TestHamburger","start":1547400344161,"stop":1547400360437,"children":["aa5cc8e7-7a6a-47a0-b803-2958a8bf370d","21df1494-55c5-4a5b-8150-a9f19c2ba3ae"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","start":1547400344194,"stop":1547400353608}]}
